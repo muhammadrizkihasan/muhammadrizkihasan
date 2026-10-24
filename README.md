@@ -1,18 +1,18 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Muhammad Rizki Hasan — Mahasiswa Teknik Informatika, HIMA TI" width="100%" />
+  <img src="assets/banner.svg" alt="Muhammad Rizki Hasan — Mahasiswa Teknologi Informasi, HIMA TI" width="100%" />
 </p>
 
 ## Tentang
 
-Saya **Muhammad Rizki Hasan**, mahasiswa **Teknik Informatika** dan bagian dari **HIMA TI**. Saya percaya cara terbaik untuk belajar adalah dengan membangun: membaca secukupnya, menulis kode, lalu memperbaiki apa yang belum selesai.
+Saya **Muhammad Rizki Hasan**, mahasiswa **Teknologi Informasi** dan bagian dari **HIMA TI Club**. Saya percaya cara terbaik untuk belajar adalah dengan membangun: membaca secukupnya, menulis kode, lalu memperbaiki apa yang belum selesai.
 
 Saat ini saya memusatkan perhatian pada fondasi ilmu komputer, web development, dan kebiasaan menulis kode yang rapi. Pekerjaan yang baik, bagi saya, lahir dari rasa ingin tahu yang dijaga dan kemauan untuk terus memperbaiki.
 
 <!-- TODO: lengkapi kampus, angkatan, dan kota sebelum publish. -->
 
 > **Nama** — Muhammad Rizki Hasan<br>
-> **Pendidikan** — Mahasiswa Teknik Informatika<br>
-> **Organisasi** — HIMA TI — Himpunan Mahasiswa Teknik Informatika<br>
+> **Pendidikan** — Mahasiswa Teknologi Informasi<br>
+> **Organisasi** — HIMA TI — Himpunan Mahasiswa Teknologi Informasi<br>
 > **Lokasi** — Indonesia<br>
 > **Status** — Terbuka untuk kolaborasi dan belajar bersama<br>
 > **Kontak** — [muhammadrizkihasan88@gmail.com](mailto:muhammadrizkihasan88@gmail.com)
