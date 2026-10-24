@@ -15,7 +15,8 @@ Saat ini saya memusatkan perhatian pada fondasi ilmu komputer, web development, 
 > **Organisasi** — HIMA TI — Himpunan Mahasiswa Teknologi Informasi<br>
 > **Lokasi** — Indonesia<br>
 > **Status** — Terbuka untuk kolaborasi dan belajar bersama<br>
-> **Kontak** — [muhammadrizkihasan88@gmail.com](mailto:muhammadrizkihasan88@gmail.com)
+> **Kontak** — [muhammadrizkihasan88@gmail.com](mailto:muhammadrizkihasan88@gmail.com)<br>
+> **Instagram** — [@mhdrzkihasan](https://www.instagram.com/mhdrzkihasan/)
 
 ## Fokus
 
@@ -38,14 +39,30 @@ Saat ini saya memusatkan perhatian pada fondasi ilmu komputer, web development, 
 - **Sederhana itu sulit.** Solusi terbaik biasanya yang paling mudah dijelaskan.
 - **Dokumentasi adalah bagian dari pekerjaan.** Kode yang baik bercerita, catatan yang baik menyelamatkan.
 
-## Terhubung
+## 🤝 Let's Connect!
 
-Terbuka untuk diskusi, kolaborasi, atau sekadar bertukar pikiran. Email adalah cara tercepat untuk menghubungi saya.
+Terbuka untuk diskusi, kolaborasi, atau sekadar bertukar pikiran. Jangan ragu untuk terhubung!
 
 <p>
-  <a href="mailto:muhammadrizkihasan88@gmail.com"><img src="https://img.shields.io/badge/Email-0D1612?style=flat-square&logo=gmail&logoColor=6EE7B7" alt="Kirim email" /></a>
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
   &nbsp;
-  <a href="https://github.com/muhammadrizkihasan"><img src="https://img.shields.io/badge/GitHub-muhammadrizkihasan-0D1612?style=flat-square&logo=github&logoColor=6EE7B7" alt="GitHub" /></a>
+  <a href="https://www.instagram.com/mhdrzkihasan/" target="_blank">
+    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  &nbsp;
+  <a href="https://discord.com" target="_blank">
+    <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  &nbsp;
+  <a href="mailto:muhammadrizkihasan88@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/muhammadrizkihasan" target="_blank">
+    <img src="https://img.shields.io/badge/PORTFOLIO-6e5494?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
+  </a>
 </p>
 
 ---
